@@ -1,3 +1,3 @@
-# rolling_dice
+# Rolling Dice (rolling_dice)
 
-A new Flutter project.
+A simple project created using the base concepts of flutter/dart that rolls a dice and gets a value from 1 to 6
